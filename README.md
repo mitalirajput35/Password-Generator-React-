@@ -12,21 +12,6 @@ A simple and efficient password generator built with React that allows users to 
 
 📋 Copy to Clipboard: Instantly copy the generated password with one click.
 
-🛠 Tech Stack
-
-Frontend: React
-
-Styling: Tailwind CSS
-
-⚡ Hooks Used
-
-useState: To manage component state.
-
-useRef: To get the effect of password selection.
-
-useCallback: To optimize password generation.
-
-useEffect: To handle side effects like password updates.
 
 📦 Installation & Usage
 
